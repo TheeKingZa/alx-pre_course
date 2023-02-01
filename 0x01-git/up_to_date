@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 [master 9312561] How to be up to date in git
  1 file changed, 3 insertions(+)
  create mode 100644 up_to_date
+=======
+'git pull'
+>>>>>>> c46c25c91bb04b53d2763be50ad38880e64d996b
